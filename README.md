@@ -10,8 +10,8 @@ Kaggle's Dogs vs Cats dataset run on the Keras 2 VGG application.
    - data/dogscats/valid/cats/ # 1,000 cat images  
 3) Run the keras2_vgg_dogs_vs_cats notebook
 
-- 82s per epoch  
-- 95% training / validation accuracy  
+82s per epoch - 95% training / validation accuracy
+
 - Nvidia 1080ti  
 - CUDA 8.0  
 - cuDNN 6.0  
