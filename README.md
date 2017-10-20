@@ -1,7 +1,7 @@
 # keras2_vgg_dogs_vs_cats
 
-Kaggle's Dogs vs Cats dataset run on the Keras VGG application.
-https://www.kaggle.com/c/dogs-vs-cats
+Kaggle's Dogs vs Cats dataset run on the Keras VGG application.  
+https://www.kaggle.com/c/dogs-vs-cats  
 https://github.com/fchollet/keras/blob/master/keras/applications/vgg16.py
 
 How to run it:
