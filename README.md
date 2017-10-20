@@ -4,7 +4,6 @@ Kaggle's Dogs vs Cats dataset run on the Keras VGG application.
 https://www.kaggle.com/c/dogs-vs-cats  
 https://github.com/fchollet/keras/blob/master/keras/applications/vgg16.py
 
-How to run it:
 1) Download the training images from Kaggle
 2) Save the images in the following directories using the image file mover:
    data/dogscats/train/dogs/ # 11,500 dog images
