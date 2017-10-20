@@ -1,6 +1,6 @@
 # keras2_vgg_dogs_vs_cats
 
-Kaggle's Dogs vs Cats dataset run on the Keras 2 VGG application.
+Kaggle's Dogs vs Cats dataset run on the Keras 2 VGG application:
 
 1) Download the training images from Kaggle
 2) Save the images in the following directories using the dog_and_cat_image_file_mover notebook:  
