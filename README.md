@@ -19,4 +19,5 @@ Kaggle's Dogs vs Cats dataset run on the Keras 2 VGG application:
 - Keras 2
 
 https://www.kaggle.com/c/dogs-vs-cats  
-https://github.com/fchollet/keras/blob/master/keras/applications/vgg16.py
+https://github.com/fchollet/keras/blob/master/keras/applications/vgg16.py  
+http://www.fast.ai/
